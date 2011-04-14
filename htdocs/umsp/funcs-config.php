@@ -87,25 +87,29 @@ function _writePluginStatus($prmPluginId, $prmStatus) {
 # TODO: replace with config_tool?
 # TODO: remove?
 
+function _getUMSPWorkPath() {
+	return $_SERVER["DOCUMENT_ROOT"] . '/umsp';
+}
+
 function _getUMSPConfPath() {
-	return getcwd() . '/conf';
+	return _getUMSPWorkPath() . '/conf';
 }
 
 function _getUMSPTmpPath() {
-	return getcwd() . '/tmp';
+	return _getUMSPWorkPath() . '/tmp';
 }
 
 function _getUMSPPluginPath() {
-	return getcwd() . '/plugins';
+	return _getUMSPWorkPath() . '/plugins';
 }
 
 function _getUMSPFont() {
-	return getcwd() . '/plugins/reader/fonts/arial.ttf';
+	return _getUMSPWorkPath() . '/plugins/reader/fonts/arial.ttf';
 	//return getcwd() . '/font/wqy-zenhei/wqy-zenhei.ttc';
 }
 
 function _getUMSPFontBD() {
-	return getcwd() . '/plugins/reader/fonts/arialbd.ttf';
+	return _getUMSPWorkPath() . '/plugins/reader/fonts/arialbd.ttf';
 	//return getcwd() . '/font/wqy-zenhei/wqy-zenhei.ttc';
 }
 
