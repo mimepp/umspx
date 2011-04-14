@@ -1,0 +1,15 @@
+v0.1.3	2010-05-05
+	- Delete old cache file on startup
+	- Support for user-plugins
+
+v0.1.2	2010-02-03
+	- Added b-rad's optical drive mod
+	- Couple of bug fixes
+	- Released under GPL
+
+v0.1.1	2010-01-30
+	- Added basic thumbnail support. folder.jpg and <filename>.jpg
+	- Added USB to main menu.
+	- Added some thumbnails to standard objects.
+
+	

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+   <item id="netitv" dc.title="netitv.com 天翼视讯" upnp.album_art="http://www.netitv.com/a_images/tysx_1_2/logo.gif" order="1"/>
+   <item id="qiyi" dc.title="QIYI.COM 奇艺" upnp.album_art="http://www.qiyipic.com/common/images/logo.png" order="2"/>
+   <item id="apple-trailers" dc.title="Apple-Trailers" upnp.album_art="http://lh3.googleusercontent.com/_xJcSFBlLg_Y/TZDbFvRJSmI/AAAAAAAAA1A/P-V72s4dzYM/s60/apple-logo-2pgray.png" order="3"/>
+   <item id="tube8" dc.title="Tube8" upnp.album_art="http://lh3.googleusercontent.com/_xJcSFBlLg_Y/TWM_L7Vo2nI/AAAAAAAAAXM/74F1vbmw7yE/s200/t8logo2.png" order="4"/>
+   <item id="pornhub" dc.title="Pornhub" upnp.album_art="http://i34.tinypic.com/s2cqgy.jpg" order="5"/>
+   <item id="reader" dc.title="RSS Reader" upnp.album_art="http://lh4.ggpht.com/_xJcSFBlLg_Y/TRK6wWOo1TI/AAAAAAAAAHo/iCot-wogg30/s60/reader.png" order="6"/>
+   <item id="weather" dc.title="weather" upnp.album_art="http://a1.twimg.com/profile_images/454108683/AccuWxLogoTwitter_breaking_bigger.png" order="7"/>
+</items>

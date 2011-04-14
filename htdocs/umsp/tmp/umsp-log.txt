@@ -1,0 +1,314 @@
+reader.php:24 > array(1) {
+  [0]=>
+  array(1) {
+    ["plugin"]=>
+    string(6) "reader"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(1) {
+    ["plugin"]=>
+    string(6) "reader"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(66) "http%3A%2F%2Fweather.raychou.com%2F%3F%2Fdetail%2F58367%2Fv1%2Frss"
+  }
+}
+reader.php:274 > array(1) {
+  [0]=>
+  string(3) "111"
+}
+reader.php:394 > array(1) {
+  [0]=>
+  string(3) "111"
+}
+reader.php:410 > array(1) {
+  [0]=>
+  string(3) "111"
+}
+reader.php:413 > array(1) {
+  [0]=>
+  string(3) "111"
+}
+reader.php:414 > array(1) {
+  [0]=>
+  string(3) "111"
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(66) "http%3A%2F%2Fweather.raychou.com%2F%3F%2Fdetail%2F56294%2Fv1%2Frss"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(1) {
+    ["plugin"]=>
+    string(6) "reader"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(94) "http%3A%2F%2Fnews.google.com%2Fnews%3Fpz%3D1%26cf%3Dall%26ned%3Dcn%26hl%3Dzh-CN%26output%3Drss"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(4) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(94) "http%3A%2F%2Fnews.google.com%2Fnews%3Fpz%3D1%26cf%3Dall%26ned%3Dcn%26hl%3Dzh-CN%26output%3Drss"
+    ["id"]=>
+    string(32) "3da1f371421dd166e1642c796e557307"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(4) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(94) "http%3A%2F%2Fnews.google.com%2Fnews%3Fpz%3D1%26cf%3Dall%26ned%3Dcn%26hl%3Dzh-CN%26output%3Drss"
+    ["id"]=>
+    string(32) "3da1f371421dd166e1642c796e557307"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(4) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(94) "http%3A%2F%2Fnews.google.com%2Fnews%3Fpz%3D1%26cf%3Dall%26ned%3Dcn%26hl%3Dzh-CN%26output%3Drss"
+    ["id"]=>
+    string(32) "f0ffb0a865d5379c15fa0ef753c86112"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(38) "http%3A%2F%2Fcn.engadget.com%2Frss.xml"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(38) "http%3A%2F%2Fcn.engadget.com%2Frss.xml"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(4) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(38) "http%3A%2F%2Fcn.engadget.com%2Frss.xml"
+    ["id"]=>
+    string(32) "5eedb60f619e03270ed8ec83db857e21"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(4) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(38) "http%3A%2F%2Fcn.engadget.com%2Frss.xml"
+    ["id"]=>
+    string(32) "bdec157043ef2031630e7603a950aa28"
+  }
+}
+reader.php:24 > array(1) {
+  [0]=>
+  array(4) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(38) "http%3A%2F%2Fcn.engadget.com%2Frss.xml"
+    ["id"]=>
+    string(32) "b1c4f25e05840a4a4b313d3080de9a82"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(1) {
+    ["plugin"]=>
+    string(6) "reader"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(66) "http%3A%2F%2Fweather.raychou.com%2F%3F%2Fdetail%2F58367%2Fv1%2Frss"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(1) {
+    ["plugin"]=>
+    string(6) "reader"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(66) "http%3A%2F%2Fweather.raychou.com%2F%3F%2Fdetail%2F58367%2Fv1%2Frss"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(117) "http://forum.wdlxtv.com/smartfeed.php?forum=10&limit=NO_LIMIT&sort_by=postdate_desc&feed_type=RSS2.0&feed_style=BASIC"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(41) "http://rss.cnn.com/rss/edition_europe.rss"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(1) {
+    ["plugin"]=>
+    string(6) "reader"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(66) "http%3A%2F%2Fweather.raychou.com%2F%3F%2Fdetail%2F56294%2Fv1%2Frss"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(66) "http%3A%2F%2Fweather.raychou.com%2F%3F%2Fdetail%2F58367%2Fv1%2Frss"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(48) "http%3A%2F%2Frss.news.sohu.com%2Frss%2Ffocus.xml"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(4) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(48) "http%3A%2F%2Frss.news.sohu.com%2Frss%2Ffocus.xml"
+    ["id"]=>
+    string(32) "f2bae242b7f390de108119633ada6736"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(117) "http://forum.wdlxtv.com/smartfeed.php?forum=10&limit=NO_LIMIT&sort_by=postdate_desc&feed_type=RSS2.0&feed_style=BASIC"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(1) {
+    ["plugin"]=>
+    string(6) "reader"
+  }
+}
+reader.php:25 > array(1) {
+  [0]=>
+  array(3) {
+    ["plugin"]=>
+    string(6) "reader"
+    ["type"]=>
+    string(3) "rss"
+    ["url"]=>
+    string(48) "http%3A%2F%2Frss.news.sohu.com%2Frss%2Ffocus.xml"
+  }
+}
