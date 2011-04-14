@@ -1,0 +1,1328 @@
+tube8.php:97 > array(1) {
+  [0]=>
+  string(51) "Downloading http://www.tube8.com/search.html?q=asi1"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(70) "Found clip mature/milfhunter-bliss/727991/ with title Milfhunter Bliss"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e3e89142b7/190x143/8.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(33) "Quoted title is: Milfhunter Bliss"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 24:44"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(107) "Found clip amateur/family-members-sucking-and-fucking/727951/ with title Family members sucking and fucking"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e3c93322d8/190x143/5.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(51) "Quoted title is: Family members sucking and fucking"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 14:41"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(104) "Found clip amateur/miss-nalgotas-mounthfucking-oil/727941/ with title 25 MISS NALGOTAS MOUNTHFUCKING OIL"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e3ba37ce5c/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(51) "Quoted title is: 25 MISS NALGOTAS MOUNTHFUCKING OIL"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 01:21"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(114) "Found clip teen/young-hentai-teen-gets-her-pussy-licked/727931/ with title Young hentai teen gets her pussy licked"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e3a9b0ddd8/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(56) "Quoted title is: Young hentai teen gets her pussy licked"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 01:21"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(69) "Found clip blowjob/lisa-sucks-cock/727911/ with title Lisa Sucks Cock"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e39fa14b10/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(32) "Quoted title is: Lisa Sucks Cock"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:53"
+}
+tube8.php:97 > array(1) {
+  [0]=>
+  string(52) "Downloading http://www.tube8.com/search.html?q=asia1"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(70) "Found clip mature/milfhunter-bliss/727991/ with title Milfhunter Bliss"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e3e89142b7/190x143/8.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(33) "Quoted title is: Milfhunter Bliss"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 24:44"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(107) "Found clip amateur/family-members-sucking-and-fucking/727951/ with title Family members sucking and fucking"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e3c93322d8/190x143/5.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(51) "Quoted title is: Family members sucking and fucking"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 14:41"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(104) "Found clip amateur/miss-nalgotas-mounthfucking-oil/727941/ with title 25 MISS NALGOTAS MOUNTHFUCKING OIL"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e3ba37ce5c/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(51) "Quoted title is: 25 MISS NALGOTAS MOUNTHFUCKING OIL"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 01:21"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(114) "Found clip teen/young-hentai-teen-gets-her-pussy-licked/727931/ with title Young hentai teen gets her pussy licked"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e3a9b0ddd8/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(56) "Quoted title is: Young hentai teen gets her pussy licked"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 01:21"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(69) "Found clip blowjob/lisa-sucks-cock/727911/ with title Lisa Sucks Cock"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/14/4d7e39fa14b10/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(32) "Quoted title is: Lisa Sucks Cock"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:53"
+}
+tube8.php:97 > array(1) {
+  [0]=>
+  string(46) "Downloading http://www.tube8.com/latest/page/1"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(120) "Found clip hardcore/briana-banks-my-mother-in-law-is-a-cunt/723671/ with title Briana Banks  My Mother in Law is a Cunt."
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7c18fbdf05c/190x143/3.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(59) "Quoted title is: Briana Banks  My Mother in Law is a Cunt\."
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 37:13"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(102) "Found clip teen/haley-wilde-fuck-and-suck-outside/722871/ with title Haley Wilde fuck and suck outside"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bb3fdea4df/190x143/8.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(50) "Quoted title is: Haley Wilde fuck and suck outside"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 15:43"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(54) "Found clip hardcore/knocker/723041/ with title Knocker"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bcce780b02/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(24) "Quoted title is: Knocker"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 18:14"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(91) "Found clip amateur/super-hot-girl-masterbates/723461/ with title Super Hot Girl Masterbates"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bfdccbb5f4/190x143/15.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(43) "Quoted title is: Super Hot Girl Masterbates"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 12:36"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(82) "Found clip hardcore/brittney-blew-bangbus/725411/ with title Brittney Blew Bangbus"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7d0cb7317ed/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(38) "Quoted title is: Brittney Blew Bangbus"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(25) "Matched duration 01:10:04"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(99) "Found clip hardcore/hillary-scott-reno-fill-me-in/723201/ with title Hillary Scott, Reno Fill Me In"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bd9079b004/190x143/10.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(47) "Quoted title is: Hillary Scott, Reno Fill Me In"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 23:53"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(189) "Found clip amateur/gorgeous-blondie-fanta-masturbates-like-there-is-no-tomorrow-betutiful-body/722441/ with title GORGEOUS BLONDIE FANTA MASTURBATES LIKE THERE IS NO TOMORROW BETUTIFUL BODY"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7b8b4299af5/190x143/11.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(92) "Quoted title is: GORGEOUS BLONDIE FANTA MASTURBATES LIKE THERE IS NO TOMORROW BETUTIFUL BODY"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:00"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(112) "Found clip latina/stunning-latina-dildoing-her-sexy-ass/722341/ with title Stunning latina dildoing her sexy ass"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7b7e066d1f1/190x143/11.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(54) "Quoted title is: Stunning latina dildoing her sexy ass"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 14:27"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(90) "Found clip hardcore/massage-from-kortney-kane/725471/ with title massage from kortney kane"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7d1137b8ea7/190x143/9.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(42) "Quoted title is: massage from kortney kane"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 26:00"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(189) "Found clip amateur/gorgeous-blondie-fanta-masturbates-like-there-is-no-tomorrow-betutiful-body/723601/ with title GORGEOUS BLONDIE FANTA MASTURBATES LIKE THERE IS NO TOMORROW BETUTIFUL BODY"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7c0e36712de/190x143/1.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(92) "Quoted title is: GORGEOUS BLONDIE FANTA MASTURBATES LIKE THERE IS NO TOMORROW BETUTIFUL BODY"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:00"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(94) "Found clip hardcore/mommy-got-boobs-shay-sights/723721/ with title Mommy Got Boobs Shay Sights"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7c1c00218ce/190x143/10.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(44) "Quoted title is: Mommy Got Boobs Shay Sights"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 25:09"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(104) "Found clip hardcore/hot-brunette-wife-getting-fucked/723631/ with title Hot Brunette Wife getting fucked"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7c12ccbf363/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(49) "Quoted title is: Hot Brunette Wife getting fucked"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 26:51"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(84) "Found clip asian/lily-thai-border-banger/722461/ with title Lily Thai  Border Banger"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7b8d5d165eb/190x143/6.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(41) "Quoted title is: Lily Thai  Border Banger"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 38:03"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(94) "Found clip teen/big-boobs-teeny-fucked-in-ass/799921/ with title Big boobs teeny fucked in ass"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1104/06/4d9c28a2b9885/190x143/9.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(46) "Quoted title is: Big boobs teeny fucked in ass"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:01"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(100) "Found clip fetish/bigpieboy-s-cumshot-collection/712391/ with title BigPieBoy's cumshot collection 2"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/08/4d76b36278aec/190x143/5.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(49) "Quoted title is: BigPieBoy's cumshot collection 2"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 09:59"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(136) "Found clip lesbian/kristina-rose-kiara-mia-getting-licks-on-route/722851/ with title Kristina Rose  Kiara Mia  Getting Licks On Route 66"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bb3192bc2c/190x143/7.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(68) "Quoted title is: Kristina Rose  Kiara Mia  Getting Licks On Route 66"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 29:47"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(90) "Found clip mature/drink-sperm-and-stay-young/715031/ with title Drink sperm and stay young"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/09/4d77e49e2e330/190x143/1.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(43) "Quoted title is: Drink sperm and stay young"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 21:21"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(87) "Found clip lesbian/scooby-doo-lesbian-scene/724201/ with title Scooby Doo Lesbian Scene"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7c79de14315/190x143/2.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(41) "Quoted title is: Scooby Doo Lesbian Scene"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 17:37"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(160) "Found clip teen/amateur-girl-trying-to-take-her-lovers-big-dick-all-the-way-in/722791/ with title Amateur girl Trying to Take Her Lovers Big Dick All The Way In"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7baba1047a8/190x143/2.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(79) "Quoted title is: Amateur girl Trying to Take Her Lovers Big Dick All The Way In"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 07:28"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(70) "Found clip amateur/hot-amateur-sex/720141/ with title Hot Amateur Sex "
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7a6cb6ebb3a/190x143/14.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(33) "Quoted title is: Hot Amateur Sex "
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 17:24"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(175) "Found clip lesbian/bridgette-b-heather-starlet-franesca-le-the-wild-and-crazy-bitches/723141/ with title Bridgette B, Heather Starlet, Franesca Le  The Wild and Crazy Bitches."
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bd413a7fe9/190x143/6.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(88) "Quoted title is: Bridgette B, Heather Starlet, Franesca Le  The Wild and Crazy Bitches\."
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 36:39"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(56) "Found clip teen/hot-blonde/720171/ with title Hot Blonde"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7a6f5cd04c9/190x143/6.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(27) "Quoted title is: Hot Blonde"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:37"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(58) "Found clip hardcore/anal-on/721321/ with title Anal 2 on 1"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7af1b19c10b/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(28) "Quoted title is: Anal 2 on 1"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(25) "Matched duration 01:48:01"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(184) "Found clip hardcore/big-tit-pornstars-dressed-up-as-native-americans-suck-pilgrims-big-cocks/763141/ with title Big Tit Pornstars dressed up as Native Americans suck pilgrims big cocks"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/24/4d8ba4f216918/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(89) "Quoted title is: Big Tit Pornstars dressed up as Native Americans suck pilgrims big cocks"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 04:17"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(71) "Found clip asian/myu-tsubaki-part/718031/ with title myu tsubaki part 2"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/10/4d79605dd19ca/190x143/2.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(35) "Quoted title is: myu tsubaki part 2"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 21:34"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(79) "Found clip asian/lucy-thai-cumpilation/720731/ with title Lucy Thai Cumpilation"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7aa257636da/190x143/9.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(38) "Quoted title is: Lucy Thai Cumpilation"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 06:14"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(122) "Found clip anal/italian-blondie-with-awesome-tits-assfucked/722061/ with title Italian Blondie with awesome tits assfucked"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7b54af0bc29/190x143/11.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(60) "Quoted title is: Italian Blondie with awesome tits assfucked"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 25:47"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(62) "Found clip anal/girl-in-jeans/720131/ with title Girl in Jeans"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7a6b68d5561/190x143/13.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(30) "Quoted title is: Girl in Jeans"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 23:16"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(85) "Found clip asian/lily-thai-lewd-conduct/720931/ with title Lily Thai  Lewd Conduct 21"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7ab49367eb5/190x143/3.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(43) "Quoted title is: Lily Thai  Lewd Conduct 21"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 18:33"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(98) "Found clip teen/hot-chicks-i-ll-be-over-soon-p/682141/ with title Hot Chicks I'll Be Over Soon.p10"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1102/25/4d67e9574b38c/190x143/15.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(50) "Quoted title is: Hot Chicks I'll Be Over Soon\.p10"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:36"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(124) "Found clip fetish/lactating-milf-with-big-boobs-and-sexy-body/718111/ with title Lactating milf with big boobs and sexy body"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/10/4d79679b11100/190x143/4.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(60) "Quoted title is: Lactating milf with big boobs and sexy body"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 10:52"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(132) "Found clip anal/anal-ass-to-mouth-in-fishnet-stockings-and-boots/714471/ with title Anal ass to mouth in fishnet stockings and boots"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/09/4d77be9ab58ab/190x143/1.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(65) "Quoted title is: Anal ass to mouth in fishnet stockings and boots"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:15"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(71) "Found clip asian/myu-tsubaki-part/718021/ with title myu tsubaki part 1"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/10/4d79602d2bc08/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(35) "Quoted title is: myu tsubaki part 1"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 21:34"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(80) "Found clip anal/anal-toy-on-the-webcam/717021/ with title Anal toy on the webcam"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/10/4d790564f23b7/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(39) "Quoted title is: Anal toy on the webcam"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 07:53"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(92) "Found clip teen/i-am-in-love-with-this-chick/716831/ with title I am in love with this chick"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/10/4d78eb2aa6064/190x143/1.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(45) "Quoted title is: I am in love with this chick"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 18:45"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(111) "Found clip lesbian/lexi-belle-and-sandy-sweet-eat-pussy/719861/ with title Lexi Belle and Sandy Sweet eat pussy"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7a50e09c3dc/190x143/7.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(53) "Quoted title is: Lexi Belle and Sandy Sweet eat pussy"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 18:11"
+}
+tube8.php:97 > array(1) {
+  [0]=>
+  string(46) "Downloading http://www.tube8.com/latest/page/1"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(61) "Found clip blowjob/megacasting/725381/ with title megacasting"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7d0ba77dc3b/190x143/7.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(28) "Quoted title is: megacasting"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 17:59"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(89) "Found clip erotic/hot-blonde-susiefingering/724911/ with title Hot Blonde  SusieFingering"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7ce202a99df/190x143/11.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(43) "Quoted title is: Hot Blonde  SusieFingering"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:35"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(76) "Found clip hardcore/big-titty-teachers/726451/ with title Big Titty Teachers"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7d7211a9e14/190x143/4.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(35) "Quoted title is: Big Titty Teachers"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(25) "Matched duration 01:09:59"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(107) "Found clip teen/fake-tits-hot-blonde-teen-fuck-hard/724901/ with title Fake Tits  Hot Blonde Teen Fuck Hard"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7ce093b3d7e/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(53) "Quoted title is: Fake Tits  Hot Blonde Teen Fuck Hard"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 32:20"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(120) "Found clip hardcore/briana-banks-my-mother-in-law-is-a-cunt/723671/ with title Briana Banks  My Mother in Law is a Cunt."
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7c18fbdf05c/190x143/3.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(59) "Quoted title is: Briana Banks  My Mother in Law is a Cunt\."
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 37:13"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(102) "Found clip teen/haley-wilde-fuck-and-suck-outside/722871/ with title Haley Wilde fuck and suck outside"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bb3fdea4df/190x143/8.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(50) "Quoted title is: Haley Wilde fuck and suck outside"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 15:43"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(54) "Found clip hardcore/knocker/723041/ with title Knocker"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bcce780b02/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(24) "Quoted title is: Knocker"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 18:14"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(91) "Found clip amateur/super-hot-girl-masterbates/723461/ with title Super Hot Girl Masterbates"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bfdccbb5f4/190x143/15.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(43) "Quoted title is: Super Hot Girl Masterbates"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 12:36"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(82) "Found clip hardcore/brittney-blew-bangbus/725411/ with title Brittney Blew Bangbus"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7d0cb7317ed/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(38) "Quoted title is: Brittney Blew Bangbus"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(25) "Matched duration 01:10:04"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(99) "Found clip hardcore/hillary-scott-reno-fill-me-in/723201/ with title Hillary Scott, Reno Fill Me In"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bd9079b004/190x143/10.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(47) "Quoted title is: Hillary Scott, Reno Fill Me In"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 23:53"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(189) "Found clip amateur/gorgeous-blondie-fanta-masturbates-like-there-is-no-tomorrow-betutiful-body/722441/ with title GORGEOUS BLONDIE FANTA MASTURBATES LIKE THERE IS NO TOMORROW BETUTIFUL BODY"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7b8b4299af5/190x143/11.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(92) "Quoted title is: GORGEOUS BLONDIE FANTA MASTURBATES LIKE THERE IS NO TOMORROW BETUTIFUL BODY"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:00"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(112) "Found clip latina/stunning-latina-dildoing-her-sexy-ass/722341/ with title Stunning latina dildoing her sexy ass"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7b7e066d1f1/190x143/11.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(54) "Quoted title is: Stunning latina dildoing her sexy ass"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 14:27"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(90) "Found clip hardcore/massage-from-kortney-kane/725471/ with title massage from kortney kane"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7d1137b8ea7/190x143/9.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(42) "Quoted title is: massage from kortney kane"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 26:00"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(189) "Found clip amateur/gorgeous-blondie-fanta-masturbates-like-there-is-no-tomorrow-betutiful-body/723601/ with title GORGEOUS BLONDIE FANTA MASTURBATES LIKE THERE IS NO TOMORROW BETUTIFUL BODY"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7c0e36712de/190x143/1.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(92) "Quoted title is: GORGEOUS BLONDIE FANTA MASTURBATES LIKE THERE IS NO TOMORROW BETUTIFUL BODY"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:00"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(94) "Found clip hardcore/mommy-got-boobs-shay-sights/723721/ with title Mommy Got Boobs Shay Sights"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7c1c00218ce/190x143/10.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(44) "Quoted title is: Mommy Got Boobs Shay Sights"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 25:09"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(104) "Found clip hardcore/hot-brunette-wife-getting-fucked/723631/ with title Hot Brunette Wife getting fucked"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7c12ccbf363/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(49) "Quoted title is: Hot Brunette Wife getting fucked"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 26:51"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(84) "Found clip asian/lily-thai-border-banger/722461/ with title Lily Thai  Border Banger"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7b8d5d165eb/190x143/6.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(41) "Quoted title is: Lily Thai  Border Banger"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 38:03"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(94) "Found clip teen/big-boobs-teeny-fucked-in-ass/799921/ with title Big boobs teeny fucked in ass"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1104/06/4d9c28a2b9885/190x143/9.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(46) "Quoted title is: Big boobs teeny fucked in ass"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:01"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(100) "Found clip fetish/bigpieboy-s-cumshot-collection/712391/ with title BigPieBoy's cumshot collection 2"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/08/4d76b36278aec/190x143/5.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(49) "Quoted title is: BigPieBoy's cumshot collection 2"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 09:59"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(136) "Found clip lesbian/kristina-rose-kiara-mia-getting-licks-on-route/722851/ with title Kristina Rose  Kiara Mia  Getting Licks On Route 66"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bb3192bc2c/190x143/7.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(68) "Quoted title is: Kristina Rose  Kiara Mia  Getting Licks On Route 66"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 29:47"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(90) "Found clip mature/drink-sperm-and-stay-young/715031/ with title Drink sperm and stay young"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/09/4d77e49e2e330/190x143/1.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(43) "Quoted title is: Drink sperm and stay young"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 21:21"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(87) "Found clip lesbian/scooby-doo-lesbian-scene/724201/ with title Scooby Doo Lesbian Scene"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/13/4d7c79de14315/190x143/2.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(41) "Quoted title is: Scooby Doo Lesbian Scene"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 17:37"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(160) "Found clip teen/amateur-girl-trying-to-take-her-lovers-big-dick-all-the-way-in/722791/ with title Amateur girl Trying to Take Her Lovers Big Dick All The Way In"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7baba1047a8/190x143/2.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(79) "Quoted title is: Amateur girl Trying to Take Her Lovers Big Dick All The Way In"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 07:28"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(70) "Found clip amateur/hot-amateur-sex/720141/ with title Hot Amateur Sex "
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7a6cb6ebb3a/190x143/14.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(33) "Quoted title is: Hot Amateur Sex "
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 17:24"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(175) "Found clip lesbian/bridgette-b-heather-starlet-franesca-le-the-wild-and-crazy-bitches/723141/ with title Bridgette B, Heather Starlet, Franesca Le  The Wild and Crazy Bitches."
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7bd413a7fe9/190x143/6.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(88) "Quoted title is: Bridgette B, Heather Starlet, Franesca Le  The Wild and Crazy Bitches\."
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 36:39"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(56) "Found clip teen/hot-blonde/720171/ with title Hot Blonde"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7a6f5cd04c9/190x143/6.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(27) "Quoted title is: Hot Blonde"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:35"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(58) "Found clip hardcore/anal-on/721321/ with title Anal 2 on 1"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7af1b19c10b/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(28) "Quoted title is: Anal 2 on 1"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(25) "Matched duration 01:48:01"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(184) "Found clip hardcore/big-tit-pornstars-dressed-up-as-native-americans-suck-pilgrims-big-cocks/763141/ with title Big Tit Pornstars dressed up as Native Americans suck pilgrims big cocks"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/24/4d8ba4f216918/190x143/12.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(89) "Quoted title is: Big Tit Pornstars dressed up as Native Americans suck pilgrims big cocks"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 04:17"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(71) "Found clip asian/myu-tsubaki-part/718031/ with title myu tsubaki part 2"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/10/4d79605dd19ca/190x143/2.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(35) "Quoted title is: myu tsubaki part 2"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 21:34"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(79) "Found clip asian/lucy-thai-cumpilation/720731/ with title Lucy Thai Cumpilation"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7aa257636da/190x143/9.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(38) "Quoted title is: Lucy Thai Cumpilation"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 06:14"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(122) "Found clip anal/italian-blondie-with-awesome-tits-assfucked/722061/ with title Italian Blondie with awesome tits assfucked"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/12/4d7b54af0bc29/190x143/11.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(60) "Quoted title is: Italian Blondie with awesome tits assfucked"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 25:47"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(62) "Found clip anal/girl-in-jeans/720131/ with title Girl in Jeans"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7a6b68d5561/190x143/13.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(30) "Quoted title is: Girl in Jeans"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 23:16"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(85) "Found clip asian/lily-thai-lewd-conduct/720931/ with title Lily Thai  Lewd Conduct 21"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/11/4d7ab49367eb5/190x143/3.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(43) "Quoted title is: Lily Thai  Lewd Conduct 21"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 18:33"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(98) "Found clip teen/hot-chicks-i-ll-be-over-soon-p/682141/ with title Hot Chicks I'll Be Over Soon.p10"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(87) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1102/25/4d67e9574b38c/190x143/15.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(50) "Quoted title is: Hot Chicks I'll Be Over Soon\.p10"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:36"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(124) "Found clip fetish/lactating-milf-with-big-boobs-and-sexy-body/718111/ with title Lactating milf with big boobs and sexy body"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/10/4d79679b11100/190x143/4.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(60) "Quoted title is: Lactating milf with big boobs and sexy body"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 10:52"
+}
+tube8.php:127 > array(1) {
+  [0]=>
+  string(132) "Found clip anal/anal-ass-to-mouth-in-fishnet-stockings-and-boots/714471/ with title Anal ass to mouth in fishnet stockings and boots"
+}
+tube8.php:134 > array(1) {
+  [0]=>
+  string(86) "Found thumbnail http://cdn1.image.tube8.phncdn.com/1103/09/4d77be9ab58ab/190x143/1.jpg"
+}
+tube8.php:139 > array(1) {
+  [0]=>
+  string(65) "Quoted title is: Anal ass to mouth in fishnet stockings and boots"
+}
+tube8.php:144 > array(1) {
+  [0]=>
+  string(22) "Matched duration 05:15"
+}

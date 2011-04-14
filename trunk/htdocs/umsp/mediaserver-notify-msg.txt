@@ -1,0 +1,8 @@
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+LOCATION: http://127.0.0.1:80/umsp/MediaServerServiceDesc.xml
+SERVER: MYFAKESERVER
+CACHE-CONTROL: max-age=5
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+USN: uuid:badbabe1-6666-6666-6666-f00d00c0ffee::urn:schemas-upnp-org:device:MediaServer:1
