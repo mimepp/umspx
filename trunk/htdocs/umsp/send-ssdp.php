@@ -41,7 +41,7 @@ function _sddpSend($frame, $delay=15, $host="239.255.255.250", $port=1900) {
 	$strHeader .= 'LOCATION: http://'.$_SERVER['SERVER_ADDR'].':'.$_SERVER['SERVER_PORT'].'/umsp/MediaServerServiceDesc.xml' . "\r\n";
 	$strHeader .= 'SERVER: MYFAKESERVER UDP 127' . "\r\n";
 	$strHeader .= 'CACHE-CONTROL: max-age=7200' . "\r\n";
-	$strHeader .= 'NT: urn:schemas-upnp-org:device:MediaServer:1' . "\r\n";
+	$strHeader .= 'NT: upnp:rootdevice' . "\r\n";
 	$strHeader .= 'NTS: ssdp:alive' . "\r\n";
 	$strHeader .= 'USN: uuid:badbabe1-6666-6666-6666-f00d00c0ffee::urn:schemas-upnp-org:device:MediaServer:1' . "\r\n". "\r\n";
     $buf = $strHeader;
