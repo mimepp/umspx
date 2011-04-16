@@ -6,7 +6,7 @@
  </specVersion>
 <device>
 <deviceType>urn:schemas-upnp-org:device:MediaServer:1</deviceType>
-<friendlyName>Y.UMSP</friendlyName>
+<friendlyName>UMSPX</friendlyName>
 <manufacturer>FAKEManufacturer</manufacturer>
 <modelDescription>FAKEModelDesc</modelDescription>
 <modelName>FAKEModelName</modelName>
