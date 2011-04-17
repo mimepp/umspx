@@ -9,7 +9,7 @@
 
 	error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
 	header ("Content-Type: text/html; charset=UTF-8");
-	include_once($_SERVER["DOCUMENT_ROOT"]."/umsp/funcs-misc.php");
+	include_once("funcs-misc.php");
 
 	echo '<html xmlns="http://www.w3.org/1999/xhtml">'.
 		'<head>'.
@@ -25,7 +25,7 @@
 		$arrItems = _callPluginSearch('and dc:title contains "'.$_POST["search_string"].'"');
 	};
 	if (is_null($arrItems)) {
-		include ($_SERVER["DOCUMENT_ROOT"]."/umsp/media-items.php");
+		include ("media-items.php");
 		$arrItems = $myMediaItems;
 	};
 	if (function_exists('_pluginSearch')) {

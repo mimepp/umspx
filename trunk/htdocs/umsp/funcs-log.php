@@ -7,6 +7,9 @@
    When      Who      What
    16.05.10   cd      initial released version 0.1
 *************************************************************/
+include_once('funcs-config.php');
+error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
+define("LOG_FILE", _getUMSPTmpPath() . '/umsp-log.txt');	
 
 define('L_ALL',0);
 define('L_DEBUG',1);
@@ -22,7 +25,7 @@ global $logLevel, $logIdent, $logFile;
 // set defaults, override in including script if neccessary
 $logLevel = L_ERROR;
 $logIdent = $scriptPath[count($scriptPath)-1];
-$logFile = '/tmp/umsp-log.txt';
+$logFile = _getUMSPTmpPath() . '/umsp-log.txt';
 // ********************************************************
 
 function _log ($level, $someText, $someVar = null) {
@@ -53,5 +56,17 @@ function _logError ($someText, $someVar = null) {
    _log(L_ERROR, $someText, $someVar);
 }
 
+function l()
+{
+   $t = debug_backtrace();
+   $args = func_get_args();
+   ob_start();
+   echo basename($t[0]["file"]).":{$t[0]["line"]} > ";
+   var_dump($args);
+   $data = ob_get_contents();
+   ob_end_clean();
+   file_put_contents(LOG_FILE,$data,FILE_APPEND);
+   if(end($args) === 1) die;
+}
 ?>
 
