@@ -1,11 +1,9 @@
 ﻿<?php
 // NetiTV UMSP plugin by Daniel
 
-	include('info.php');
+	include('info.php');	
 
 // 天翼视讯(目前直播不支持,点播完美)
-
-define("LOG_FILE",'/tmp/umsp-log.txt');	
 
 function _pluginMain($prmQuery) {
 	//l('[DEBUG]',$prmQuery);
@@ -278,21 +276,6 @@ function _GetTVUrl($url)
 	//$retUrl = 'http://localhost/umsp/plugins/netitv/netitv-proxy.php?itemurl='.$retUrl;
 	//l('DEBUG--------GetTVUrl2',$retUrl);
 	return $retUrl;
-}
-/**
-* 调试
-*/
-function l()
-{
-   $t = debug_backtrace();
-   $args = func_get_args();
-   ob_start();
-   echo basename($t[0]["file"]).":{$t[0]["line"]} > ";
-   var_dump($args);
-   $data = ob_get_contents();
-   ob_end_clean();
-   file_put_contents(LOG_FILE,$data,FILE_APPEND);
-   if(end($args) === 1) die;
 }
 ?>
 
