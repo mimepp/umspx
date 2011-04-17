@@ -1,5 +1,4 @@
 <?php
-	error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
 	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-config.php');
 	function _callPlugin($prmPath, $prmQuery = null) {
 		# TODO: make plugins config Ini based
