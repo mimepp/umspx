@@ -11,7 +11,6 @@
 	###   * added default protocolInfo, if not defined
 	### Version: 1.0 - 2010.10.12.
 
-	error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
 	function umsp_sort($a, $b) {
 		if (!isset($a['order']) || !isset($b['order'])) {
 			return 0;

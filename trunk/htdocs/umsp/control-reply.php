@@ -6,8 +6,6 @@
 	include_once('funcs-log.php');
 	include_once('funcs-local.php'); # TODO: move include to switch
 	include('media-items.php');
-
-	error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
 	
 	# Parse the request from WDTVL
 	$requestRaw = file_get_contents('php://input');

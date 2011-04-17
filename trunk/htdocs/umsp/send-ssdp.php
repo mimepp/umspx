@@ -7,7 +7,6 @@
 
 <body>
 <?php
-error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
 $result = _myCheck();
 ?>
 <br />
