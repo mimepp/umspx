@@ -5,7 +5,7 @@
 	include('info.php');
 
 //设置输出调试日志路径
-define("LOG_FILE",'/tmp/umsp-log.txt');
+
 //设置每页视频数量
 define("ITEMPERPAGE",30);
 
@@ -250,20 +250,5 @@ function _getVideoUrl($url)
 	return $videourl;
 }
 
-/**
-* 调试
-*/
-function l()
-{
-   $t = debug_backtrace();
-   $args = func_get_args();
-   ob_start();
-   echo basename($t[0]["file"]).":{$t[0]["line"]} > ";
-   var_dump($args);
-   $data = ob_get_contents();
-   ob_end_clean();
-   file_put_contents(LOG_FILE,$data,FILE_APPEND);
-   if(end($args) === 1) die;
-}
 ?>
 
