@@ -1,6 +1,5 @@
 <?php
-	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-config.php');
-	define("LOG_FILE", _getUMSPTmpPath() . '/ips-log.txt');	
+	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-config.php');	
 	//include_once(includeWorkaround());
 	$logLevel=L_WARNING;
 	include_once('tube8-helper.php');
@@ -341,18 +340,5 @@ if(isset($_GET['mov_id']))
 		//turn the power led off when the proxy finished
 		system("sudo su -c 'echo power led off >> /proc/led'");
 	}
-}
-
-function _logDebug()
-{
-   $t = debug_backtrace();
-   $args = func_get_args();
-   ob_start();
-   echo basename($t[0]["file"]).":{$t[0]["line"]} > ";
-   var_dump($args);
-   $data = ob_get_contents();
-   ob_end_clean();
-   file_put_contents(LOG_FILE,$data,FILE_APPEND);
-   if(end($args) === 1) die;
 }
 ?>
