@@ -1,5 +1,6 @@
 <?php
 	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-config.php');	
+	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-log.php');
 	//include_once(includeWorkaround());
 	$logLevel=L_WARNING;
 	include_once('tube8-helper.php');
