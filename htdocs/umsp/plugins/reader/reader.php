@@ -13,7 +13,8 @@
 	### Version: 2.0 - 2010.10.30.
 	###   Rewritten to support national characters; Caching features
 	### Version: 1.0 - 2010.08.09.
-	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-config.php');	
+	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-config.php');
+	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-log.php');
 	function _pluginMain($prmQuery = "") {
 		// Caching Feature
 		$CACHING_TIME = 10;
