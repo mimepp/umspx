@@ -1,5 +1,6 @@
 <?php
 
+error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
 function _parseUPnPRequest($prmRequest) {;
 	$reader = new XMLReader();
 	$reader->XML($prmRequest);

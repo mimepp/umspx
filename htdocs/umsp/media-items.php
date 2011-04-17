@@ -98,8 +98,8 @@ $myMediaItems[] = array(
 );
 #------------------------------
 
-if (file_exists("/conf/umsp.php")) {
-	include("/conf/umsp.php");
+if (file_exists(_getUMSPConfPath() . "/umsp.php")) {
+	include(_getUMSPConfPath() . "/umsp.php");
 };
 
 # 'XML UMSP Items Plugin' support

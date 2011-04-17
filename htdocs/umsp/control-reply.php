@@ -3,9 +3,12 @@
 	# header("content-type: text/xml");
 	include_once('funcs-upnp.php');
 	include_once('funcs-misc.php');
+	include_once('funcs-log.php');
 	include_once('funcs-local.php'); # TODO: move include to switch
 	include('media-items.php');
 
+	error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
+	
 	# Parse the request from WDTVL
 	$requestRaw = file_get_contents('php://input');
 	if ($requestRaw != '') {
@@ -89,13 +92,15 @@
 		$domDIDL = _createDIDL('');
 		$numRet = 0;
 	} else {
+		if ($upnpRequest['requestedcount'] == 0) {
+			$upnpRequest['requestedcount'] = $totMatches - $upnpRequest['startingindex'];
+		}
 		$slicedItems = array_slice($items, $upnpRequest['startingindex'], $upnpRequest['requestedcount']);
 		$domDIDL = _createDIDL($slicedItems);
 		$numRet = count($slicedItems);
 	}
 	# Build DIDL-XML from $myMediaItems array
 	$xmlDIDL = $domDIDL->saveXML();
-
 	# Build SOAP-XML reply from DIDL-XML and send it to WDTVL
 	$domSOAP = _createSOAPEnvelope($xmlDIDL, $numRet, $totMatches, $responseType);
 	echo $domSOAP->saveXML();
