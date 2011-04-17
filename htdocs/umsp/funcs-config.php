@@ -1,5 +1,5 @@
 <?php
-error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
+
 function _configMainHTML($prmPluginInfo, $prmStatus = '') {
     $html  = '<html xmlns="http://www.w3.org/1999/xhtml">';
     $html .= '<head>';

@@ -7,7 +7,6 @@
 	###
 	### Version: 1.0 - 2010.10.12.
 
-	error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
 	header ("Content-Type: text/html; charset=UTF-8");
 	include_once("funcs-misc.php");
 

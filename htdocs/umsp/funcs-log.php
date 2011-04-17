@@ -8,7 +8,6 @@
    16.05.10   cd      initial released version 0.1
 *************************************************************/
 include_once('funcs-config.php');
-error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
 define("LOG_FILE", _getUMSPTmpPath() . '/umsp-log.txt');	
 
 define('L_ALL',0);

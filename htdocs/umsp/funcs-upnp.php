@@ -1,6 +1,5 @@
 <?php
 
-error_reporting(E_ALL ^ E_NOTICE);	// avoid the notice message.
 function _parseUPnPRequest($prmRequest) {;
 	$reader = new XMLReader();
 	$reader->XML($prmRequest);
@@ -81,7 +80,11 @@ function _createDIDL($prmItems) {
 		 
 	# Add each item in $prmItems array to $ndDIDL:
 	foreach ($prmItems as $item) {
-		$ndItem = $xmlDoc->createElement('item');
+		if ($item['upnp:class']	== 'object.container') {
+			$ndItem = $xmlDoc->createElement('container');
+		} else {
+			$ndItem = $xmlDoc->createElement('item');
+		}
 		$ndRes = $xmlDoc->createElement('res');
 		$ndRes_text = $xmlDoc->createTextNode($item['res']);
 		$ndRes->appendChild($ndRes_text);
