@@ -13,8 +13,7 @@
 	### Version: 2.0 - 2010.10.30.
 	###   Rewritten to support national characters; Caching features
 	### Version: 1.0 - 2010.08.09.
-	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-config.php');
-	define("LOG_FILE", _getUMSPTmpPath() . '/umsp-log.txt');	
+	include_once($_SERVER["DOCUMENT_ROOT"].'/umsp/funcs-config.php');	
 	function _pluginMain($prmQuery = "") {
 		// Caching Feature
 		$CACHING_TIME = 10;
@@ -490,16 +489,4 @@
 
 		return trim($s);
 	};
-	function l()
-	{
-   $t = debug_backtrace();
-   $args = func_get_args();
-   ob_start();
-   echo basename($t[0]["file"]).":{$t[0]["line"]} > ";
-   var_dump($args);
-   $data = ob_get_contents();
-   ob_end_clean();
-   file_put_contents(LOG_FILE,$data,FILE_APPEND);
-   if(end($args) === 1) die;
-	}
 ?>
