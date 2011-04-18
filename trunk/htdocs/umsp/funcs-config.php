@@ -103,9 +103,20 @@ function _getUMSPPluginPath() {
 	return _getUMSPWorkPath() . '/plugins';
 }
 
+function _getUMSPFontWQY() {	
+	return _getUMSPWorkPath() . '/font/wqy-zenhei/wqy-zenhei.ttc';
+}
+
+function _getUMSPFontMSYH() {	
+	return _getUMSPWorkPath() . '/font/msyh/msyh.ttf';
+}
+
+function _getUMSPFontMSYHBD() {	
+	return _getUMSPWorkPath() . '/font/msyh/msyhbd.ttf';
+}
+
 function _getUMSPFont() {
 	return _getUMSPWorkPath() . '/plugins/reader/fonts/arial.ttf';
-	//return getcwd() . '/font/wqy-zenhei/wqy-zenhei.ttc';
 }
 
 function _getUMSPFontBD() {
