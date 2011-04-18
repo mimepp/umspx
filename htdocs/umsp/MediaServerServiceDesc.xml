@@ -8,6 +8,7 @@
 <deviceType>urn:schemas-upnp-org:device:MediaServer:1</deviceType>
 <friendlyName>UMSPX</friendlyName>
 <manufacturer>FAKEManufacturer</manufacturer>
+<manufacturerURL>FAKEManufacturerURL</manufacturerURL>
 <modelDescription>FAKEModelDesc</modelDescription>
 <modelName>FAKEModelName</modelName>
 <modelNumber>FAKEModelNumber</modelNumber>

@@ -156,7 +156,7 @@
 					$retMediaItems[] = array (
 						'id'		=> 'umsp://plugins/tube8/tube8?'.$dataStr,
 						'dc:title'	=> str_replace('[] ','',$title),
-						'res'		=> 'http://127.0.0.1/umsp/plugins/tube8/tube8.php?'.$dataStr,
+						'res'		=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/tube8/tube8.php?'.$dataStr,
 						'upnp:album_art'=> (($thumb!='')?$thumb:$configData['badge']),
 						'upnp:class'	=> 'object.item.videoItem',
 						'protocolInfo'	=> $type
