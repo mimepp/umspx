@@ -50,8 +50,8 @@ function _pluginProxy($arg)
   $fs = fontPar("SCREEN_FONT_SUNMOON");
   $fr = fontPar("SCREEN_FONT_BORDER");
 
-  $regu = _getUMSPFont();	//"/tmp/umsp-plugins/reader/fonts/arial.ttf";
-  $bold = _getUMSPFontBD();	//"/tmp/umsp-plugins/reader/fonts/arialbd.ttf";
+  $regu = _getUMSPFontMSYH();	//"/tmp/umsp-plugins/reader/fonts/arial.ttf";
+  $bold = _getUMSPFontMSYHBD();	//"/tmp/umsp-plugins/reader/fonts/arialbd.ttf";
 
   $img = imagecreate($w1=$WIDTH1, $h1=$HEIGHT1);
   foreach (array($fb,$ft,$fh,$fk,$fv,$fs) as $v) $cl[] = imagecolorallocate($img, $v[1], $v[2], $v[3]);
