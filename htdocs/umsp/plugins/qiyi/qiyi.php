@@ -3,6 +3,7 @@
 // 奇异影视
 
 	include('info.php');
+include_once($_SERVER[DOCUMENT_ROOT] . '/umsp/funcs-config.php');
 
 //设置输出调试日志路径
 
