@@ -1,6 +1,7 @@
 ﻿<?php
 
 include ('info.php');
+include_once($_SERVER[DOCUMENT_ROOT] . '/umsp/funcs-config.php');
 
 //error_reporting(0);
 header("Cache-Control: no-store, must-revalidate, post-check=0, pre-check=0, false");
