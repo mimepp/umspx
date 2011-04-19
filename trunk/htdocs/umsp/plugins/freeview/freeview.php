@@ -69,7 +69,7 @@ function _pluginCreateChannelList() {
       'id' => 'umsp://plugins/freeview/freeview?' . $url,
       'dc:title' => $name,
       'upnp:class' => 'object.item.videoitem',
-      'res' => 'http://127.0.0.1/umsp/plugins/freeview/freeview-proxy.php?'.$url_data_string,
+      'res' => 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/freeview/freeview-proxy.php?'.$url_data_string,
       'protocolInfo' => 'http-get:*:*:*',
     );
   }

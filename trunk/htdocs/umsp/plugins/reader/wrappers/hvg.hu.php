@@ -78,7 +78,7 @@
 						'dc:date'		=> date('Y-m-d'),
 						'dc:title'		=> html_entity_decode($pages[$ii]),
 						'id'			=> "umsp://plugins/reader/reader?".$dataString,
-						'res'			=> "http://127.0.0.1/umsp/proxy.php?plugin=reader&amp;".$dataString
+						'res'			=> "http://" . $_SERVER['HTTP_HOST'] . "/umsp/proxy.php?plugin=reader&amp;".$dataString
 					);
 				};
 			};

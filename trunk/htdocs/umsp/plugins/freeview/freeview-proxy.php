@@ -40,7 +40,7 @@ function _freeviewGet($prmHost, $prmPath, $prmPort) {
          if (stristr($tag, 'Location')) {
             $target_url = trim($value);
             $url_data_string = http_build_query(array('itemurl' => $target_url));
-            header("Location: http://127.0.0.1/umsp/plugins/freeview/freeview-proxy.php?".$url_data_string."\r\n");
+            header("Location: http://" . $_SERVER['HTTP_HOST'] . "/umsp/plugins/freeview/freeview-proxy.php?".$url_data_string."\r\n");
             continue;
          }
          if (stristr($tag, 'Content-Type'))

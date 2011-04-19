@@ -28,7 +28,7 @@ function ForecastWeek($location, $w)
       "dc:title"     => "$date. $desc. D: $dt ($dr), N: $nt ($nr)",
       "upnp:class"   => "object.item.imageitem",
       "protocolInfo" => "http-get:*:image/jpeg:DLNA.ORG_PN=JPEG_SM",
-      "res"          => "http://127.0.0.1/umsp/proxy.php?plugin=weather&url=$url&date=" . urlencode($date)
+      "res"          => "http://" . $_SERVER['HTTP_HOST'] . "/umsp/proxy.php?plugin=weather&url=$url&date=" . urlencode($date)
     );
   }
   return $ret;

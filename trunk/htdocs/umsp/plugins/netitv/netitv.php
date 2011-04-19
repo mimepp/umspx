@@ -57,7 +57,7 @@ function _pluginCreateRootList(){
 			'channel' => $uuidstr[1][0],
 			'id' => $idstr[1][0]
 		);
-		$picurl = 'http://127.0.0.1/umsp/media/generic.jpg';
+		$picurl = 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/media/generic.jpg';
 		if (strlen($picstr[1][0])>5)
 		{
 			$picurl='http://www.netitv.com/'.$picstr[1][0];
@@ -98,7 +98,7 @@ function _pluginCreateChannelList($uuid,$id){
 			'channel' => $uuid,
 			'id' => $idstr[1][0],
 		);
-		$picurl = 'http://127.0.0.1/umsp/media/generic.jpg';
+		$picurl = 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/media/generic.jpg';
 		if (strlen($picstr[1][0])>5)
 		{
 			$picurl='http://www.netitv.com/'.$picstr[1][0];
@@ -175,7 +175,7 @@ function _pluginCreateMovieList($channel,$id,$page)
 				'channel' => $channel,
 				'movieid' => $movieid[1][0],
 			);
-			$picurl = 'http://127.0.0.1/umsp/media/generic.jpg';
+			$picurl = 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/media/generic.jpg';
 			if (strlen($picstr[1][0])>5)
 			{
 				$picurl='http://www.netitv.com/'.$picstr[1][0];

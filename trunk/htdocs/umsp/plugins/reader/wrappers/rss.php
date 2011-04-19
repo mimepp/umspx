@@ -115,7 +115,7 @@
 								'dc:date'		=> date('Y-m-d'),
 								'dc:title'		=> html_entity_decode($pages[$ii]),
 								'id'			=> "umsp://plugins/reader/reader?".$dataString,
-								'res'			=> "http://127.0.0.1/umsp/proxy.php?plugin=reader&amp;".str_replace("&", "&amp;", $dataString)
+								'res'			=> "http://" . $_SERVER['HTTP_HOST'] . "/umsp/proxy.php?plugin=reader&amp;".str_replace("&", "&amp;", $dataString)
 							);
 						};
 					};
@@ -153,7 +153,7 @@
 							'dc:date'		=> date('Y-m-d'),
 							'dc:title'		=>	html_entity_decode($title),
 							'id'			=>	"umsp://plugins/reader?".str_replace("&", "&amp;", $dataString),
-							'res'			=>	"http://127.0.0.1/umsp/proxy.php?plugin=reader&amp;".str_replace("&", "&amp;", $dataString)
+							'res'			=>	"http://" . $_SERVER['HTTP_HOST'] . "/umsp/proxy.php?plugin=reader&amp;".str_replace("&", "&amp;", $dataString)
 						);
 					} else {
 						$data = Array(
