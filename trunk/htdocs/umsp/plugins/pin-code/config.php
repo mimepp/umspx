@@ -1,6 +1,7 @@
 <?php
 	// info contains meta data and plug-in configuration attributes
 	include('info.php');
+include_once($_SERVER[DOCUMENT_ROOT] . '/umsp/funcs-config.php');
 
     // Disable all pin-coded plugins
     $config = file_get_contents("/conf/config");

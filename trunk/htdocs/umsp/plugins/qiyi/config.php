@@ -2,6 +2,7 @@
 
 	// include plug-in info and meta data
 	include('info.php');
+include_once($_SERVER[DOCUMENT_ROOT] . '/umsp/funcs-config.php');
 
 # _DONT_RUN_CONFIG_ gets set by external scripts that just want to get the pluginInfo array via include() without running any code. Better solution?
 
