@@ -1,5 +1,6 @@
 <?PHP
 	include ('info.php');
+include_once($_SERVER[DOCUMENT_ROOT] . '/umsp/funcs-config.php');
 
 // Does this WEC version support custom hooks?
 if ((defined('WECVERSION')) && (WECVERSION >= 3)) {
