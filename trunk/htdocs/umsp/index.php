@@ -17,8 +17,14 @@ To add custom media file entries edit, or create and edit, the file "<strong>/co
 <li>To configure installed plugins, click <a href="/addons/config/index.php?wecpage=6&noMenu=1">here</a>
 <li>To re-download/update UMSP plugins click <a href="download-plugins.php">here</a></ul>
 For debugging check:<br />
-<ul><li><a href="MediaServerServiceDesc.xml">MediaServerServiceDesc.xml</a>
-<li><a href="check-didl.php">check-didl.php</a></ul>
+<ul>
+<li><a href="umsp-test.php">umsp-test.php</a>
+<li><a href="plugins">plugins</a>
+<li><a href="font">font</a>
+<li><a href="test">test</a>
+<li><a href="MediaServerServiceDesc.xml">MediaServerServiceDesc.xml</a>
+<li><a href="check-didl.php">check-didl.php</a>
+</ul>
 The above should produce valid XML files.
 </body>
 </html>
