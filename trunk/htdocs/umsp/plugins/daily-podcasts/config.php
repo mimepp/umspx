@@ -7,7 +7,7 @@ include('info.php');
 if ( !defined('_DONT_RUN_CONFIG_') ) 
 {
 
-	include_once('/usr/share/umsp/funcs-config.php');
+	include_once(_getUMSPWorkPath() . '/funcs-config.php');
 
 	# Check for a form submit that changes the plugin status:
 	if ( isset($_GET['pluginStatus']) )

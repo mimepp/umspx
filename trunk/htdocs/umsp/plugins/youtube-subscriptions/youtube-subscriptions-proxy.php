@@ -255,12 +255,12 @@ cleanup the empty line and import the new file as a workaround. This can be drop
 has the correct version (and enough time has passed so that the users have had time to upgrade)
 */
 function includeWorkaround(){
-   if(copy("/usr/share/umsp/funcs-log.php", "/tmp/funcs-log.php")){
+   if(copy(_getUMSPWorkPath() . "/funcs-log.php", "/tmp/funcs-log.php")){
 		//strip all blank lines in place
 		system("sed -i '/^$/d' /tmp/funcs-log.php");
 		return "/tmp/funcs-log.php";
    }
-   return "/usr/share/umsp/funcs-log.php";
+   return _getUMSPWorkPath() . "/funcs-log.php";
 }
 
 //Turn the power led off if desired

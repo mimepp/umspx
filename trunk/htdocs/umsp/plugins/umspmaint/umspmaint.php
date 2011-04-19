@@ -16,7 +16,7 @@
 
 	*/
 
-	include_once('/usr/share/umsp/funcs-config.php');
+	include_once(_getUMSPWorkPath() . '/funcs-config.php');
 	include_once(str_replace('.php','',__FILE__).'-helper.php');
 
 	function _pluginMain($prmQuery)

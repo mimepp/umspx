@@ -1,6 +1,6 @@
 <?php
 
-	include_once('/usr/share/umsp/funcs-config.php');
+	include_once(_getUMSPWorkPath() . '/funcs-config.php');
 	include ('info.php');
 
 	// Does this WEC version support custom hooks?

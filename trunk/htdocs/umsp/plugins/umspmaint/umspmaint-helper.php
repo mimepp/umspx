@@ -102,9 +102,9 @@
 		{
 			foreach($plugins[1] as $plugin)
 			{
-				if(($plugin!='umspmaint')&&(in_array($pugin,$activeplugins)==false)&&(file_exists("/usr/share/umsp/plugins/$plugin")))
+				if(($plugin!='umspmaint')&&(in_array($pugin,$activeplugins)==false)&&(file_exists(_getUMSPWorkPath() . "/plugins/$plugin")))
 				{
-					$status[] = shell_exec("sudo rm -fr \"/usr/share/umsp/plugins/$plugin\"");
+					$status[] = shell_exec("sudo rm -fr \"_getUMSPWorkPath() . \"/plugins/$plugin\"");
 				}
 			}
 		}
