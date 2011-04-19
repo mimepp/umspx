@@ -14,7 +14,7 @@
    http://forum.wdlxtv.com/viewtopic.php?f=49&t=517 
 *************************************************************/
 
-set_include_path (get_include_path() . PATH_SEPARATOR .'/usr/share/umsp' . PATH_SEPARATOR .'/var/www/umsp');
+set_include_path (get_include_path() . PATH_SEPARATOR . _getUMSPWorkPath() . PATH_SEPARATOR .'/var/www/umsp');
 include_once('funcs_log.php');
 
 // ********************************************************

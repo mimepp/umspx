@@ -2,7 +2,7 @@
 // Youtube get subcriptions UMSP plugin by Dan
 // http://forum.wdlxtv.com/viewtopic.php?f=49&t=713
 
-include_once('/usr/share/umsp/funcs-log.php');
+include_once(_getUMSPWorkPath() . '/funcs-log.php');
 // set the logging level, one of L_ALL, L_DEBUG, L_INFO, L_WARNING, L_ERROR, L_OFF
 global $logLevel;
 $logLevel = L_WARNING;

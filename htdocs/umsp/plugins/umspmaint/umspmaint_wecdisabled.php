@@ -5,7 +5,7 @@
 	// Does this WEC version support custom hooks?
 	if ((defined('WECVERSION')) && (WECVERSION >= 3)) {
 
-		include_once('/usr/share/umsp/funcs-config.php');
+		include_once(_getUMSPWorkPath() . '/funcs-config.php');
 		include_once(str_replace('_wec.php','',__FILE__).'-helper.php');
 
 		// Insert badge if we have one

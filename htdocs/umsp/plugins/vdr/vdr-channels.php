@@ -11,7 +11,7 @@
 *************************************************************/
 
 // shunte fixed log path 2010.12.28
-include_once('/usr/share/umsp/funcs-log.php');
+include_once(_getUMSPWorkPath() . '/funcs-log.php');
 
 // ********************************************************
 // Settings, please adjust to your needs

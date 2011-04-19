@@ -195,14 +195,14 @@
 
 	function includeWorkaround()
 	{
-		if((file_exists('/tmp/funcs-log.php'))||(copy('/usr/share/umsp/funcs-log.php', '/tmp/funcs-log.php')))
+		if((file_exists('/tmp/funcs-log.php'))||(copy(_getUMSPWorkPath() . '/funcs-log.php', '/tmp/funcs-log.php')))
 		{
 			//strip all blank lines in place
 			system("sed -i '/^$/d' /tmp/funcs-log.php");
 			system('chmod 666 /tmp/funcs-log.php');
 			return '/tmp/funcs-log.php';
 		}
-		return '/usr/share/umsp/funcs-log.php';
+		return _getUMSPWorkPath() . '/funcs-log.php';
 	}
 
 	function proxyGet($host, $path, $query='')

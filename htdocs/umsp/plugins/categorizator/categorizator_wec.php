@@ -1,7 +1,7 @@
 <?php
   include ("info.php");
   if (defined("WECVERSION") && WECVERSION >= 3)
-  { include_once("/usr/share/umsp/funcs-config.php");
+  { include_once(_getUMSPWorkPath() . "/funcs-config.php");
     $descr = $thumb = $art = $name = $version = $date = $author = $desc = $url = $id = "";
     extract($pluginInfo);
     if ($thumb || $art)
