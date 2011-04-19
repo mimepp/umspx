@@ -73,7 +73,7 @@ function _pluginCreateVideoItems($prmMovUrl) {
 	#
 	# Apple-Trailers needs a special proxy script that inserts a Quicktime User-Agent header.
 	# Make sure that proxy is reachable:
-	$proxyUrl = 'http://127.0.0.1/umsp/plugins/apple-trailers/apple-trailers-proxy.php';
+	$proxyUrl = 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/apple-trailers/apple-trailers-proxy.php';
 	#
 	# Create variants from $prmMovUrl:
 	# 

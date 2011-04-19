@@ -35,7 +35,7 @@
 				'id'		=> 'umsp://plugins/umspmaint/umspmaint?configured',
 				'dc:title'	=> 'Download/Update Configured UMSP Plugins',
 				'upnp:album_art'=> 'http://lh4.ggpht.com/_xJcSFBlLg_Y/TROT7vsiAWI/AAAAAAAAAIE/tZv8XC7y27A/s200/upnp-maintenance.png',
-				'res'		=> 'http://127.0.0.1/umsp/plugins/umspmaint/umspmaint-proxy.php?method=configured',
+				'res'		=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/umspmaint/umspmaint-proxy.php?method=configured',
 				'upnp:class'	=> 'object.item.imageitem.photo',
 				'protocolInfo'  => 'http-get:*:image/png:DLNA.ORG_PN=PNG_LRG;DLNA.ORG_CI=01;DLNA.ORG_FLAGS=00f00000000000000000000000000000',
 				'size'		=> $primeImageSize, // totally bogus image size with wiggle room
@@ -99,7 +99,7 @@
 							'id'		=> 'umsp://plugins/umspmaint/umspmaint?'.$dataStr,
 							'dc:title'	=> $methods[$pluginStatus]['desc'],
 							'upnp:album_art'=> $badge,
-							'res'		=> 'http://127.0.0.1/umsp/plugins/umspmaint/umspmaint-proxy.php?'.$dataStr,
+							'res'		=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/umspmaint/umspmaint-proxy.php?'.$dataStr,
 							'upnp:class'	=> 'object.item.imageitem.photo',
 							'protocolInfo'  => 'http-get:*:image/png:DLNA.ORG_PN=PNG_LRG;DLNA.ORG_CI=01;DLNA.ORG_FLAGS=00f00000000000000000000000000000',
 							'size'		=> $primeImageSize, // totally bogus image size with wiggle room
@@ -117,7 +117,7 @@
 								'id'		=> 'umsp://plugins/umspmaint/umspmaint?'.$dataStr,
 								'dc:title'	=> $methods['load']['desc'],
 								'upnp:album_art'=> $badge,
-								'res'		=> 'http://127.0.0.1/umsp/plugins/umspmaint/umspmaint-proxy.php?'.$dataStr,
+								'res'		=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/umspmaint/umspmaint-proxy.php?'.$dataStr,
 								'upnp:class'	=> 'object.item.imageitem.photo',
 								'protocolInfo'  => 'http-get:*:image/png:DLNA.ORG_PN=PNG_LRG;DLNA.ORG_CI=01;DLNA.ORG_FLAGS=00f00000000000000000000000000000',
 								'size'		=> $primeImageSize, // totally bogus image size with wiggle room
@@ -132,7 +132,7 @@
 			'id'		=> 'umsp://plugins/umspmaint/umspmaint?all',
 			'dc:title'	=> 'Re-download/Update All UMSP Plugins',
 			'upnp:album_art'=> 'http://lh5.ggpht.com/_xJcSFBlLg_Y/TRKEiD3GVAI/AAAAAAAAAGQ/2wy1LOR2-6o/s200/upnp-color.png',
-			'res'		=> 'http://127.0.0.1/umsp/plugins/umspmaint/umspmaint-proxy.php?method=all',
+			'res'		=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/umspmaint/umspmaint-proxy.php?method=all',
 			'upnp:class'	=> 'object.item.imageitem.photo',
 			'protocolInfo'  => 'http-get:*:image/png:DLNA.ORG_PN=PNG_LRG;DLNA.ORG_CI=01;DLNA.ORG_FLAGS=00f00000000000000000000000000000',
 			'size'		=> $primeImageSize, // totally bogus image size with wiggle room

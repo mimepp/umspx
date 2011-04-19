@@ -11,7 +11,7 @@ $logIdent = "YTSubscriptions";
 
 date_default_timezone_set('UTC');
 define("PLUGIN_NAME",str_replace('.php','',basename(__file__)));
-define("PROXY_URL","http://127.0.0.1/umsp/plugins/".PLUGIN_NAME."/".PLUGIN_NAME."-proxy.php");
+define("PROXY_URL","http://" . $_SERVER['HTTP_HOST'] . "/umsp/plugins/".PLUGIN_NAME."/".PLUGIN_NAME."-proxy.php");
 define("YT_CACHE_FILE",'/tmp/'.PLUGIN_NAME.'.cache');
 set_time_limit(0);
 
@@ -26,7 +26,7 @@ function _pluginMain($prmQuery){
       return array(array (
          'id'          => 'umsp://plugins/'.PLUGIN_NAME.'/'.PLUGIN_NAME,
          'dc:title'       => "loading content...",
-         'upnp:album_art'=> 'http://127.0.0.1/umsp/media/YouTube.png',
+         'upnp:album_art'=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/media/YouTube.png',
          'upnp:class'   => 'object.container',   
          'protocolInfo'   => '*:*:*:*'             
       ));
@@ -127,7 +127,7 @@ function _pluginSearch($prmQuery){
 			return array(array (
 				 'id'          => 'umsp://plugins/'.PLUGIN_NAME.'/'.PLUGIN_NAME,
 				 'dc:title'       => "No videos found when searching for $tokens[1]",
-				 'upnp:album_art'=> 'http://127.0.0.1/umsp/media/YouTube.png',
+				 'upnp:album_art'=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/media/YouTube.png',
 				 'upnp:class'   => 'object.container',   
 				 'protocolInfo'   => '*:*:*:*'                
 	   		));
@@ -138,7 +138,7 @@ function _pluginSearch($prmQuery){
 		return array(array (
 		     'id'          => 'umsp://plugins/'.PLUGIN_NAME.'/'.PLUGIN_NAME,
 		     'dc:title'       => "No search term provided",
-		     'upnp:album_art'=> 'http://127.0.0.1/umsp/media/YouTube.png',
+		     'upnp:album_art'=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/media/YouTube.png',
 		     'upnp:class'   => 'object.container',   
 		     'protocolInfo'   => '*:*:*:*'                
 	   ));
@@ -242,7 +242,7 @@ function _getAllSubscriptions($youtube_username){
         $thumb_url = "http://i.ytimg.com/vi/".$ud['subscriptions_videos'][$sub][0]['id']."/default.jpg";
       }
       else{
-        $thumb_url = "http://127.0.0.1/umsp/media/YouTube.png";
+        $thumb_url = "http://" . $_SERVER['HTTP_HOST'] . "/umsp/media/YouTube.png";
       }
       $dataString = array('youtube_username'=>$youtube_username,'cmd'=>'subscription_videos','user'=>$sub);
       $retMediaItems[] = array (
@@ -314,7 +314,7 @@ function _getPlaylists($youtube_username){
             $thumb_url = "http://i.ytimg.com/vi/".$ud['playlists'][$play][0]['id']."/default.jpg";
         }
         else{
-            $thumb_url = "http://127.0.0.1/umsp/media/YouTube.png";
+            $thumb_url = "http://" . $_SERVER['HTTP_HOST'] . "/umsp/media/YouTube.png";
         }
    	  
       $dataString = array('youtube_username'=>$youtube_username,'cmd'=>'playlists_videos','user'=>$play,'rnd'=>rand());

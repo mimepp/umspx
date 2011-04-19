@@ -19,7 +19,7 @@ function _pluginMain($prmQuery) {
     $media = $menu->asUMSP;
     foreach($media as &$item){
         if(isset($item['upnp:album_art'])){
-            $item['upnp:album_art'] = 'http://127.0.0.1/plugins/umsp/plugins/daily-podcasts/daily-podcasts.php?image=' .
+            $item['upnp:album_art'] = 'http://' . $_SERVER['HTTP_HOST'] . '/plugins/umsp/plugins/daily-podcasts/daily-podcasts.php?image=' .
                 preg_replace('/ /', '%20', $item['upnp:album_art']);
         }
     }

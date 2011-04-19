@@ -152,10 +152,10 @@ class DailyPodcastMenu extends DailyPodcast{
             } else {
                 $href = $item['id'];
                 $href = preg_replace('/.*class=/', '', $href);
-                $href = 'http://' . $_SERVER['SERVER_ADDR'] . $_SERVER['SCRIPT_NAME'] . '?class=' . $href;
+                $href = 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['SCRIPT_NAME'] . '?class=' . $href;
             }
             if(isset($item['upnp:album_art'])){
-                $img = str_replace('127.0.0.1', $_SERVER['SERVER_ADDR'], $item['upnp:album_art']);
+                $img = str_replace('127.0.0.1', $_SERVER['HTTP_HOST'], $item['upnp:album_art']);
             } else {
                 $img = 'default_folder.png';
             }

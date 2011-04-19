@@ -77,7 +77,7 @@ function _pluginCreateChannelList()
 				'dc:title' => $title,
 				'duration' => '99:99:99',
 				'upnp:class' => 'object.item.videoitem',
-				'res' => 'http://127.0.0.1/umsp/plugins/'.PLUGIN_NAME.'/'.PLUGIN_PROXY.'.php?'.$url_data_string,
+				'res' => 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/'.PLUGIN_NAME.'/'.PLUGIN_PROXY.'.php?'.$url_data_string,
 				'protocolInfo' => 'http-get:*:*:*',
 			);		
 		}		

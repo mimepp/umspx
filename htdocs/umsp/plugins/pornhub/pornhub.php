@@ -129,7 +129,7 @@
 					$retMediaItems[] = array (
 						'id'		=> 'umsp://plugins/pornhub/pornhub?'.$dataStr,
 						'dc:title'	=> str_replace('[] ','',$title),
-						'res'		=> 'http://127.0.0.1/umsp/plugins/pornhub/pornhub.php?'.$dataStr,
+						'res'		=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/pornhub/pornhub.php?'.$dataStr,
 						'upnp:album_art'=> (($thumb!='')?$thumb:$configData['badge']),
 						'upnp:class'	=> 'object.item.videoItem',
 						'protocolInfo'	=> $type

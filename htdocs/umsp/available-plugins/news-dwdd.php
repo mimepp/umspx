@@ -11,7 +11,7 @@ function _pluginMain($prmQuery) {
                         if ($reader->localName == 'enclosure') {
                                 $location = $reader->getAttribute('url');
                                 # Abuse the Appletrailers-proxy to pose like quicktime is doing a get..
-                                $proxyUrl = 'http://127.0.0.1/umsp/plugins/redir-proxy.php';
+                                $proxyUrl = 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/redir-proxy.php';
                                 $data = array(
                                         'url'         => $location,
                                 );

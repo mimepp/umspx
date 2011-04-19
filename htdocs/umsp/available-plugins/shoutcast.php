@@ -76,7 +76,7 @@ function _pluginCreateStationList($prmValue, $prmType = 'genre') {
 
 
 function _pluginCreateStreamList($prmID) {
-	$proxyUrl = 'http://127.0.0.1/umsp/plugins/shoutcast-proxy.php';
+	$proxyUrl = 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/shoutcast-proxy.php';
 	$streamlistPLS = file_get_contents('http://yp.shoutcast.com/sbin/tunein-station.pls?id=' . $prmID);
 #	$tmpData = parse_ini_string($streamlistXML, false, INI_SCANNER_RAW); # TODO: dont use until PHP5.3
 	$tmpData = _my_parse_ini_string($streamlistPLS);
@@ -99,7 +99,7 @@ function _pluginCreateStreamList($prmID) {
 			'dc:title' 		=> $plsData['title'. $i],
 			'res'			=> $proxyUrl.'?'. $encDataString,
 			'upnp:class'	=> 'object.item.audioitem',
-			'upnp:album_art'=> 'http://127.0.0.1/umsp/media/generic.jpg',
+			'upnp:album_art'=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/media/generic.jpg',
 			'protocolInfo'	=> 'http-get:*:audio/mpeg:*',
 			'upnp:album'	=> 'Powered by',
 			'upnp:artist'	=> 'WWW.SHOUTCAST.COM',

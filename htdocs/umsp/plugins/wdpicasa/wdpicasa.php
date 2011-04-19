@@ -411,7 +411,7 @@
 										.((strtoupper($configData['showexif'])=='ON')?
 											exifTagsX($data,false,$configData['displayexiftags']):'')
 										),true,true),
-							'res'		=> 'http://127.0.0.1/umsp/plugins/wdpicasa/wdpicasa-proxy.php?'.$dataStr,
+							'res'		=> 'http://' . $_SERVER['HTTP_HOST'] . '/umsp/plugins/wdpicasa/wdpicasa-proxy.php?'.$dataStr,
 							'upnp:class'	=> 'object.item.imageitem.photo',
 							'protocolInfo'  => 'http-get:*:'.$proto[$cont_type],
 							'upnp:album_art'=> getThumbnailUrl($cont_url, 160), # 160 pix restriction
