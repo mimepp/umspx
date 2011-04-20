@@ -1,0 +1,49 @@
+ * browse umspx by web browser
+
+ * plugin - entry
+ http://img314.ph.126.net/saSVMdg4B70mrroSEO0rlQ==/3872251254609117179.jpg
+
+ * plugin - netitv
+ http://img768.ph.126.net/pL2yn3S6Hl4x-imkJtha-g==/1257348720967838712.jpg
+
+ * plugin - qiyi
+ http://img116.ph.126.net/Cy7R_5hiv3yVnKmyUPWP_g==/710442841219516268.jpg
+
+ * plugin - qiyi, video item
+ http://img314.ph.126.net/UlKePeSuDCIP7YdHdBDBYw==/3872251254609117212.jpg
+
+ * plugin - weather
+ http://img120.ph.126.net/Rye_nNzuE5Jeul-YKHQXWg==/2851060039103575706.jpg
+
+ * plugin - weather, picture
+ http://img.ph.126.net/pDv5XG4ZGHYJhpN7pGfJuw==/3698862668955309773.jpg
+
+ * plugin - rss reader
+ http://img116.ph.126.net/S1SXgoNYQc9zZTqEUf_HNQ==/710442841219516311.jpg
+
+ * plugin - rss reader, news
+ http://img314.ph.126.net/fvZEYz2HyLD9jNfajKjkZA==/3872251254609117242.jpg
+
+ * plugin - apple-trailer
+ http://img96.ph.126.net/-N_nwwx4mpFkGoZD5FZT5Q==/2044634230828281969.jpg
+
+ * plugin - apple-trailer, resolution
+ http://img.ph.126.net/rjDjeY6iSrfqPbXl_gKkyw==/3051188747544221546.jpg
+
+ * umspx index
+ http://img762.ph.126.net/K8dotEZi_-M7UoO_VjG2AA==/4946078290759847229.jpg
+
+ * plugins dir
+ http://img762.ph.126.net/L485xOF2V8a41RSRitAbCg==/4946078290759847365.jpg
+
+ * test ip port
+ http://img165.ph.126.net/0TswrFq2dhwDTTckU73TVQ==/2253770138523907868.jpg
+
+ * test picture
+ http://img.ph.126.net/_dfR0Mu7OI46jQ0nwxP47w==/3405284268246810478.jpg
+
+ * test dir
+ http://img.ph.126.net/wfGSDCHvTffvSZ6dR8kOzg==/3698862668955309794.jpg
+
+ * font dir
+ http://img124.ph.126.net/sB6409sij1SXtxMdSEzxhw==/1609192441856252733.jpg
