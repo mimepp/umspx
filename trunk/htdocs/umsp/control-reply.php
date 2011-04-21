@@ -103,8 +103,8 @@
 	# Build SOAP-XML reply from DIDL-XML and send it to WDTVL
 	$domSOAP = _createSOAPEnvelope($xmlDIDL, $numRet, $totMatches, $responseType);
 	$soapXML = $domSOAP->saveXML();
-	$soapXML = str_replace("&lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;\n", "", $soapXML);
-	$soapXML = str_replace("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n", "", $soapXML);
+	//$soapXML = str_replace("&lt;?xml version=\"1.0\" encoding=\"utf-8\"?&gt;\n", "", $soapXML);
+	//$soapXML = str_replace("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n", "", $soapXML);
 	//l($soapXML);
 	echo $soapXML;
 ?>
