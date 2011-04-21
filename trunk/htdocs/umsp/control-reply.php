@@ -108,4 +108,3 @@
 	//l($soapXML);
 	echo $soapXML;
 ?>
-?>
