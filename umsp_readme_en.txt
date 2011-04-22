@@ -1,7 +1,11 @@
 == how to start umsp ==
- * 1. run apache_start.bat
- * 2. change the IP address in umsp_start.bat to your PC's address.
- * 3. run umsp_start.bat
+ * 1. double-click on setup_xampp.bat
+  * if you fail to run this command, please install VC9 run time library:
+   * http://code.google.com/p/umspx/wiki/VC9_run_time_library
+  * you need run it only once, when you want to run umsp again after a reboot, just go to step 2;
+ * 2. double-click on apache_start.bat
+ * 3. change the IP address in umsp_start.bat to your PC's address.
+ * 4. double-click on run umsp_start.bat
 
 == what's the port of umspx ==
  * default port is 7703.
