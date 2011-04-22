@@ -1,0 +1,6 @@
+ * test with PS3
+ * test with XBOX
+ * test with WMP11/12
+ * test with gupnp-av-cp, gupnp-universal-cp
+ * test with XBMC
+ * refine the plugins
