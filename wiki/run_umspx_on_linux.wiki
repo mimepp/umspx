@@ -9,8 +9,8 @@
   * cd /tmp
   * unzip umspx_vx.x_script_only.zip
   * cd umspx
-  * sudo cp -rf * /opt/lampp
-  * sudo cp -rf ./linux/* /opt/lampp
+  * sudo cp -rf {{{*}}} /opt/lampp
+  * sudo cp -rf ./linux/{{{*}}} /opt/lampp
 
 = run =
  * cd /opt/lampp
@@ -18,3 +18,4 @@
  * sudo vi umsp_start.sh
   * change the IP address to your PC's
  * sudo sh umsp_start.sh start
+ * then you should find umspx on your upnp server list
