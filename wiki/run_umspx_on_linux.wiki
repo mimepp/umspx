@@ -1,4 +1,4 @@
-= install ==
+= Install ==
  umspx is based on xampp, so you need to install xampp first.
  * 1. xammp for linux - lampp
   * http://www.apachefriends.org/en/xampp-linux.html
@@ -12,7 +12,7 @@
   * sudo cp -rf {{{*}}} /opt/lampp
   * sudo cp -rf ./linux/{{{*}}} /opt/lampp
 
-= run =
+= Run =
  * cd /opt/lampp
  * sudo ./lampp start
  * sudo vi umsp_start.sh
