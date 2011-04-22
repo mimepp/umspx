@@ -1,0 +1,31 @@
+= FAQ (Frequently Asked Questions) =
+
+ == Q: apache_start.bat could not run correctly on windows ==
+
+ A: please install VC9 run time library:
+  * http://code.google.com/p/umspx/wiki/VC9_run_time_library
+
+ == Q: How to enable a plugin ? ==
+
+ A: edit "htdocs\umsp\conf\umsp-items.xml" to add plugin entry
+
+ == Q: How to install the font of msyh which will be used in weather plugin ? ==
+
+ A: go to htdocs\umsp\font\msyh, check the readme.txt
+
+ == Q: How to change the default city of weather ? ==
+
+ A: edit "htdocs\umsp\conf\":
+  * the default value is 
+   * WEATHER_LOCATION='zh-cn/cn/shanghai/shanghai'
+  * please search your city on "www.accuweather.com" and replace it with your city's url.
+
+ == Q: Where is the debug log storing? ==
+
+ A: windows: "htdocs\umsp\tmp\umsp-log.txt"
+   linux: "/tmp/umsp-log.txt"
+   
+ == Q: Where is the config file storing? ==
+
+ A: windows: "htdocs\umsp\conf\config"
+   linux: "/tmp/conf/config"
