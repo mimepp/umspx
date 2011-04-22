@@ -92,11 +92,19 @@ function _getUMSPWorkPath() {
 }
 
 function _getUMSPConfPath() {
-	return _getUMSPWorkPath() . '/conf';
+	if (substr_count(strtolower(PHP_OS), "Linux")) {
+		return '/tmp/conf';
+	} else {
+		return _getUMSPWorkPath() . '/conf';
+	}
 }
 
 function _getUMSPTmpPath() {
-	return _getUMSPWorkPath() . '/tmp';
+	if (substr_count(strtolower(PHP_OS), "Linux")) {
+		return '/tmp';
+	} else {
+		return _getUMSPWorkPath() . '/tmp';
+	}
 }
 
 function _getUMSPPluginPath() {
