@@ -11,7 +11,7 @@
  * 下载最新的 script_only:
   * 如: umspx_vx.x_script_only.zip 
   * 如果下载区域有高版本的 script_only，那么你需要下载它
-  * 将其解压到 c:\, 也即它会 c:\umspx 下面覆盖旧版本的script 
+  * 将其解压到 c:\, 也即它会覆盖 c:\umspx 下旧版本的script 
 
 == 运行 umsp ==
  * 1. 双击 setup_xampp.bat
