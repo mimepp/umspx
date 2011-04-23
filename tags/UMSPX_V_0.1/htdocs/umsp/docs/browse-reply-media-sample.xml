@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<s:Body>
+<u:BrowseResponse xmlns:u="urn:schemas-upnp-org:service:ContentDirectory:1">
+<Result>&lt;DIDL-Lite xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot; xmlns:upnp=&quot;urn:schemas-upnp-org:metadata-1-0/upnp/&quot; xmlns=&quot;urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/&quot;&gt;
+&lt;item id=&quot;0_1&quot; parentID=&quot;26&quot; restricted=&quot;0&quot;&gt;
+&lt;dc:title&gt;My FG video&lt;/dc:title&gt;
+&lt;upnp:class&gt;object.item.videoItem&lt;/upnp:class&gt;
+&lt;res size=&quot;10000&quot; duration=&quot;0:00:00.000&quot;&gt;http://192.168.178.20:8080/fg.avi&lt;/res&gt;
+&lt;/item&gt;
+&lt;item id=&quot;0_2&quot; parentID=&quot;26&quot; restricted=&quot;0&quot;&gt;
+&lt;dc:title&gt;Radio Stream&lt;/dc:title&gt;
+&lt;upnp:class&gt;object.item.audioItem&lt;/upnp:class&gt;
+&lt;res size=&quot;3192832&quot; duration=&quot;0:00:00.000&quot;&gt;http://scfire-ntc-aa08.stream.aol.com:80/stream/1018&lt;/res&gt;
+&lt;/item&gt;
+&lt;/DIDL-Lite&gt;</Result>
+<NumberReturned>2</NumberReturned>
+<TotalMatches>2</TotalMatches>
+<UpdateID>1</UpdateID>
+</u:BrowseResponse>
+</s:Body>
+</s:Envelope>

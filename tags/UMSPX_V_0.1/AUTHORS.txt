@@ -1,0 +1,5 @@
+ * Author:  Tao Yu <yut616_at_gmail.com>
+ *
+ * Copyright (c) 2011 ~  Tao Yu <yut616_at_gmail.com>
+ *
+ * Licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 

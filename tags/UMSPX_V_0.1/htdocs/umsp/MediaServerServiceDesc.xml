@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+ <specVersion>
+   <major>1</major>
+   <minor>0</minor>
+ </specVersion>
+<device>
+<deviceType>urn:schemas-upnp-org:device:MediaServer:1</deviceType>
+<friendlyName>UMSPX</friendlyName>
+<manufacturer>FAKEManufacturer</manufacturer>
+<manufacturerURL>FAKEManufacturerURL</manufacturerURL>
+<modelDescription>FAKEModelDesc</modelDescription>
+<modelName>FAKEModelName</modelName>
+<modelNumber>FAKEModelNumber</modelNumber>
+<modelURL>http://127.0.0.1/modelURL</modelURL>
+<UDN>uuid:badbabe1-6666-6666-6666-f00d00c0ffee</UDN>
+<serviceList>
+<service>
+<serviceType>urn:schemas-upnp-org:service:ContentDirectory:1</serviceType>
+<serviceId>urn:upnp-org:serviceId:ContentDirectory</serviceId>
+<controlURL>/umsp/control-reply.php</controlURL>
+<eventSubURL>/umsp/cdEvent.xml</eventSubURL>
+<SCPDURL>/umsp/MediaServerContentDirectory.xml</SCPDURL>
+</service>
+<service>
+<serviceType>urn:schemas-upnp-org:service:ConnectionManager:1</serviceType>
+<serviceId>urn:upnp-org:serviceId:ConnectionManager</serviceId>
+<controlURL>/umsp/cmControl.xml</controlURL>
+<eventSubURL>/umsp/cmEvent.xml</eventSubURL>
+<SCPDURL>/umsp/MediaServerConnectionManager.xml</SCPDURL>
+</service>
+</serviceList>
+</device>
+</root>
