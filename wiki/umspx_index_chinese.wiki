@@ -28,7 +28,7 @@ UMSP: [http://wiki.wdlxtv.com/UMSP UPnP Media Server based on PHP]
  [http://www.youtube.com/watch?v=4cHbuU9T194 YouTube 上的演示视频]
 
 = 如何在 windows 上启动 UMSPX =
- http://code.google.com/p/umspx/wiki/run_umspx_on_windows
+ http://code.google.com/p/umspx/wiki/run_umspx_on_windows_chs
 
 = 如何在 linux 上运行 UMSPX =
  http://code.google.com/p/umspx/wiki/run_umspx_on_linux
