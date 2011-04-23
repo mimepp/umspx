@@ -1,0 +1,52 @@
+umspx 是一个 UMSP 的扩展。 
+ http://img124.ph.126.net/gQZHtbuJUjsUXJpjeLVWEw==/3042181548290183977.jpg
+
+= 功能 =
+ * umspx 是一个 upnp 服务器。
+ * umspx 是一个 upnp 服务器，能把大量的在线视频内容串流到你的电视上观看
+  * 包括：netitv, qiyi, youtube, picasa, apple-trailers, rss reader 等
+ * umspx 可在 Windows, Linux, Mac OS 等支持 "Apache + PHP" 的机器上运行。
+ * Therefore, upnp devices (include wdtv) could play UMSP too, e.g.: PS3, XBOX.
+
+UMSP: [http://wiki.wdlxtv.com/UMSP UPnP Media Server based on PHP]
+
+= 捐赠 =
+ * If you DO like this software, please donate to support me:
+ [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=yut616@yahoo.com&lc=USA&item_name=umspx&item_number=umspx&currency_code=USD&bn=PP%2dDonation https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif]
+
+
+= 截图 =
+||umspx on p8126||browse umspx in web page||
+||[http://code.google.com/p/umspx/wiki/snapshot_of_umspx_on_p8126 http://img313.ph.126.net/7vGbdcPMFwXCGFc52V4lxg==/3662552396959917478.jpg]||[http://code.google.com/p/umspx/wiki/snapshot_of_umspx_by_web_browser http://img157.ph.126.net/srVifO8MG5L_IZtye-izwg==/2250392438803643357.jpg]||
+
+||browse umspx in upnp CP||servicein upnp device spy||
+|| [http://code.google.com/p/umspx/wiki/snapshot_of_umspx_intel_controller http://img847.ph.126.net/DekeDm3f3KaMx6egvaTgcQ==/2082351877707586756.jpg]||[http://code.google.com/p/umspx/wiki/snapshot_of_umspx_intel_devicespy http://img245.ph.126.net/-lO68LQlYv3bV043iA54nQ==/1386264260301862958.jpg]||
+
+= UMSPX 使用演示视频 =
+ [http://v.youku.com/v_show/id_XMjYwNTQwODYw.html YouKu 上的演示视频]
+
+ [http://www.youtube.com/watch?v=4cHbuU9T194 YouTube 上的演示视频]
+
+= 如何在 windows 上启动 UMSPX =
+ http://code.google.com/p/umspx/wiki/run_umspx_on_windows
+
+= 如何在 linux 上运行 UMSPX =
+ http://code.google.com/p/umspx/wiki/run_umspx_on_linux
+
+= FAQ =
+ http://code.google.com/p/umspx/wiki/FAQ
+
+= 开发者 =
+ http://code.google.com/p/umspx/wiki/be_a_developer
+
+= 邮件列表 =
+ http://groups.google.com/group/umspx
+
+= TODO =
+ * test with PS3
+ * test with XBOX
+
+= Change Log =
+ * v0.1     2011-04-22
+  * initial release
+  * umspx could run on windows and linux now. 
