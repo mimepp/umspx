@@ -30,6 +30,9 @@ UMSP: [http://wiki.wdlxtv.com/UMSP UPnP Media Server based on PHP]
 = 如何在 windows 上启动 UMSPX =
  http://code.google.com/p/umspx/wiki/run_umspx_on_windows_chs
 
+= umspx 安装中文教程 windows =
+ http://code.google.com/p/umspx/wiki/run_umspx_on_windows_chs_lesson
+
 = 如何在 linux 上运行 UMSPX =
  http://code.google.com/p/umspx/wiki/run_umspx_on_linux
 
