@@ -1,0 +1,19 @@
+= umspx 安装教程 windows =
+ * 解压缩
+ * 结果目录：
+  http://pic.yupoo.com/mimepp/B15ZGHFs/8uaVa.jpg
+ * 先设置 xmapp，即双击 setup_xampp.bat
+  http://pic.yupoo.com/mimepp/B15ZGEta/YmaoB.jpg
+ * 启动 apache：即双击 apache_start.bat
+  http://pic.yupoo.com/mimepp/B15ZGFTn/SYRFt.jpg
+  * apache 运行结果：
+  http://pic.yupoo.com/mimepp/B15ZGXgc/sBCpd.jpg
+ * 设置 umspx 的 IP 地址
+  * 选中 umsp_start.bat
+   http://pic.yupoo.com/mimepp/B15ZH5Zu/Z8oAn.jpg
+  * 使用右键，选“编辑”
+   http://pic.yupoo.com/mimepp/B165e3qU/rgbzV.jpg
+  * 修改其中的 IP 地址为你自己的 IP 地址
+   http://pic.yupoo.com/mimepp/B15ZHxAN/pf8ku.jpg
+ * 运行 umspx
+  http://pic.yupoo.com/mimepp/B15ZGhmp/11B7d2.jpg
