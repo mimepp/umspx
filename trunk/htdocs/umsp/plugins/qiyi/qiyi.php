@@ -4,6 +4,7 @@
 
 	include('info.php');
 include_once($_SERVER[DOCUMENT_ROOT] . '/umsp/funcs-config.php');
+include_once($_SERVER[DOCUMENT_ROOT] . '/umsp/funcs-log.php');
 
 //设置输出调试日志路径
 
@@ -135,12 +136,14 @@ function _pluginCreateMovieList($channel,$page,$isort)
 		} else {
 			$html = file_get_contents('http://search.video.qiyi.com/searchCategory/' . $channel . '/1/'.$isort.'/' . $page . '/' .ITEMPERPAGE.'/www/');	
 		}
-		preg_match_all('/"VrsVideoTv.tvName":"(.*?)","broadImg":/',$html,$title);
+		//"VrsVideoTv.tvName":"东山飘雨西关晴","VrsVideotv.tvTag":"
+		preg_match_all('/"VrsVideoTv.tvName":"(.*?)","/',$html,$title);
 		preg_match_all('/"vrsVideoTv.TvBigPic":"(.*?)","VrsVideoTv.tvDesc":/',$html,$bigpic);		
 		preg_match_all('/"TvApplication.purl":"(.*?)","category"/',$html,$movieurl);
 		preg_match_all('/"tvsets":"(.*?)","firstUrl":/',$html,$tvsets);
-		preg_match_all('/"firstUrl":"(.*?)","vrsVideoTv.TvBigPic/',$html,$firstUrl);
-		
+		preg_match_all('/"firstUrl":"(.*?)","/',$html,$firstUrl);
+		//l($html);
+		//l($firstUrl[1]);
 		for ($z = 0; $z < sizeof($title[1]); $z++) {
 			if ($firstUrl[1][$z]!='')
 			{
@@ -188,8 +191,20 @@ function _pluginCreateMovieList($channel,$page,$isort)
 //生成TV列表
 function _pluginCreateTVPlayList($movlink,$name)
 {
+	//l($movlink);
 	$html = file_get_contents(urldecode($movlink));
-	preg_match_all('/<a videoId="(.*?)"(.*?)href="(.*?)"(.*?)>(.*?)<\/a>/',$html,$tvurls);
+	$html = str_replace("\r","",$html);
+	$html = str_replace("\n","",$html);
+	//l($html);
+	//preg_match_all('/<a videoId="(.*?)"(.*?)href="(.*?)"(.*?)>(.*?)<\/a>/',$html,$tvurls);
+	/*
+	<li vid='ce7d6a8f76b1484faa17c8ccaaae225d'>
+		<a title="天涯赤子心第1集" href="http://www.qiyi.com/dianshiju/20110418/48af82e3012faac7.html"><img data-lazyload="http://www.qiyipic.com/thumb/20110418/v88373_116_65.jpg" width="116" height="65" alt="天涯赤子心第1集" /><span style="display:none">播放中..</span>
+		<p></p>
+		</a><a href="http://www.qiyi.com/dianshiju/20110418/48af82e3012faac7.html" title="天涯赤子心第1集">第1集</a>
+	</li>
+	*/
+	preg_match_all('/<li vid=\'(.*?)\'>(.*?)<a href="(.*?)"(.*?)>(.*?)<\/a>/',$html,$tvurls);
 	//l($tvurls);
 	//$tvurls[3] url,tvurls[5] name
 	for ($z = 0;$z<sizeof($tvurls[3]);$z++){
@@ -218,6 +233,7 @@ function _pluginCreateTVPlayList($movlink,$name)
 //生成播放列表
 function _pluginCreatePlayList($movlink,$name)
 {
+	//l($movlink);
 	$vurl = _getVideoUrl(urldecode($movlink));
 	if ($vurl == '')
 	{
@@ -244,6 +260,8 @@ function _pluginCreatePlayList($movlink,$name)
 function _getVideoUrl($url) 
 {
 	$html = file_get_contents($url);
+	//l($url);
+	//tvId : "88373",//剧集id
 	preg_match_all('/tvId : "(.*?)",\/\/剧集id/',$html,$tvid);
 	$html = file_get_contents('http://cache.video.qiyi.com/h5/v/' .$tvid[1][0] . '/');	
 	preg_match_all('/"url":"(.*?)"/',$html,$vurl);
